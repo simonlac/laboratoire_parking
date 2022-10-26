@@ -1,0 +1,61 @@
+C:\Users\info1\Documents\Visual Studio 2017\Projects\Laboratoire\Laboratoire\bin\Debug\Laboratoire.exe.config
+C:\Users\info1\Documents\Visual Studio 2017\Projects\Laboratoire\Laboratoire\bin\Debug\Laboratoire.exe
+C:\Users\info1\Documents\Visual Studio 2017\Projects\Laboratoire\Laboratoire\bin\Debug\Laboratoire.pdb
+C:\Users\info1\Documents\Visual Studio 2017\Projects\Laboratoire\Laboratoire\obj\Debug\Laboratoire.Form1.resources
+C:\Users\info1\Documents\Visual Studio 2017\Projects\Laboratoire\Laboratoire\obj\Debug\Laboratoire.Properties.Resources.resources
+C:\Users\info1\Documents\Visual Studio 2017\Projects\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.GenerateResource.cache
+C:\Users\info1\Documents\Visual Studio 2017\Projects\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.CoreCompileInputs.cache
+C:\Users\info1\Documents\Visual Studio 2017\Projects\Laboratoire\Laboratoire\obj\Debug\Laboratoire.exe
+C:\Users\info1\Documents\Visual Studio 2017\Projects\Laboratoire\Laboratoire\obj\Debug\Laboratoire.pdb
+C:\Users\info1\Documents\Visual Studio 2017\Projects\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csprojAssemblyReference.cache
+C:\Cegep automne 2020\Développement d'application Windows\04\Séance 2\SolutionLaboratoire\Laboratoire\Laboratoire\bin\Debug\Laboratoire.exe.config
+C:\Cegep automne 2020\Développement d'application Windows\04\Séance 2\SolutionLaboratoire\Laboratoire\Laboratoire\bin\Debug\Laboratoire.exe
+C:\Cegep automne 2020\Développement d'application Windows\04\Séance 2\SolutionLaboratoire\Laboratoire\Laboratoire\bin\Debug\Laboratoire.pdb
+C:\Cegep automne 2020\Développement d'application Windows\04\Séance 2\SolutionLaboratoire\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csprojAssemblyReference.cache
+C:\Cegep automne 2020\Développement d'application Windows\04\Séance 2\SolutionLaboratoire\Laboratoire\Laboratoire\obj\Debug\Laboratoire.Form1.resources
+C:\Cegep automne 2020\Développement d'application Windows\04\Séance 2\SolutionLaboratoire\Laboratoire\Laboratoire\obj\Debug\Laboratoire.Properties.Resources.resources
+C:\Cegep automne 2020\Développement d'application Windows\04\Séance 2\SolutionLaboratoire\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.GenerateResource.cache
+C:\Cegep automne 2020\Développement d'application Windows\04\Séance 2\SolutionLaboratoire\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.CoreCompileInputs.cache
+C:\Cegep automne 2020\Développement d'application Windows\04\Séance 2\SolutionLaboratoire\Laboratoire\Laboratoire\obj\Debug\Laboratoire.exe
+C:\Cegep automne 2020\Développement d'application Windows\04\Séance 2\SolutionLaboratoire\Laboratoire\Laboratoire\obj\Debug\Laboratoire.pdb
+C:\Cegep_Automne_2022\Développment d'applications Windows\S8\04-05-06\4\Séance 2\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\bin\Debug\Laboratoire.exe.config
+C:\Cegep_Automne_2022\Développment d'applications Windows\S8\04-05-06\4\Séance 2\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\bin\Debug\Laboratoire.exe
+C:\Cegep_Automne_2022\Développment d'applications Windows\S8\04-05-06\4\Séance 2\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\bin\Debug\Laboratoire.pdb
+C:\Cegep_Automne_2022\Développment d'applications Windows\S8\04-05-06\4\Séance 2\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.AssemblyReference.cache
+C:\Cegep_Automne_2022\Développment d'applications Windows\S8\04-05-06\4\Séance 2\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\obj\Debug\Laboratoire.Form1.resources
+C:\Cegep_Automne_2022\Développment d'applications Windows\S8\04-05-06\4\Séance 2\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\obj\Debug\Laboratoire.Properties.Resources.resources
+C:\Cegep_Automne_2022\Développment d'applications Windows\S8\04-05-06\4\Séance 2\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.GenerateResource.cache
+C:\Cegep_Automne_2022\Développment d'applications Windows\S8\04-05-06\4\Séance 2\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.CoreCompileInputs.cache
+C:\Cegep_Automne_2022\Développment d'applications Windows\S8\04-05-06\4\Séance 2\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\obj\Debug\Laboratoire.exe
+C:\Cegep_Automne_2022\Développment d'applications Windows\S8\04-05-06\4\Séance 2\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\obj\Debug\Laboratoire.pdb
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\bin\Debug\Laboratoire.exe.config
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\bin\Debug\Laboratoire.exe
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\bin\Debug\Laboratoire.pdb
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.AssemblyReference.cache
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\obj\Debug\Laboratoire.Properties.Resources.resources
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.GenerateResource.cache
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.CoreCompileInputs.cache
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\obj\Debug\Laboratoire.exe
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\obj\Debug\Laboratoire.pdb
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking_A_AmeliorerParLesEtudiants\Laboratoire\Laboratoire\obj\Debug\Laboratoire.Formulaire.resources
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\bin\Debug\Laboratoire.exe.config
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\bin\Debug\Laboratoire.exe
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\bin\Debug\Laboratoire.pdb
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.AssemblyReference.cache
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\obj\Debug\Laboratoire.Formulaire.resources
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\obj\Debug\Laboratoire.Properties.Resources.resources
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.GenerateResource.cache
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.CoreCompileInputs.cache
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\obj\Debug\Laboratoire.exe
+C:\Cegep_Automne_2022\Développment d'applications Windows\S9\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\obj\Debug\Laboratoire.pdb
+I:\windows programming\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\bin\Debug\Laboratoire.exe.config
+I:\windows programming\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\bin\Debug\Laboratoire.exe
+I:\windows programming\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\bin\Debug\Laboratoire.pdb
+I:\windows programming\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.AssemblyReference.cache
+I:\windows programming\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.SuggestedBindingRedirects.cache
+I:\windows programming\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\obj\Debug\Laboratoire.Formulaire.resources
+I:\windows programming\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\obj\Debug\Laboratoire.Properties.Resources.resources
+I:\windows programming\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.GenerateResource.cache
+I:\windows programming\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\obj\Debug\Laboratoire.csproj.CoreCompileInputs.cache
+I:\windows programming\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\obj\Debug\Laboratoire.exe
+I:\windows programming\SolutionLaboratoire_Parking\Laboratoire\Laboratoire\obj\Debug\Laboratoire.pdb
